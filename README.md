@@ -37,7 +37,6 @@ After that we deploye the tflite model on flutter mobile application by using
 );
 ```
 
-
 ## 🛠 Skills
 Python,Tensorflow,Pandas,Numpy,Conventional Neural Network(CNN),flutter,
 
@@ -52,12 +51,6 @@ Installation for our project with pip
   !pip install pandas
   cd apple project
 ```
-    
-## Demo
-
-Insert gif or link to demo
-
-
 ## Roadmap
 
 - Dataset collection for healthy and disease apple leaves
@@ -79,7 +72,6 @@ Insert gif or link to demo
 - Mobile application development
 
 - Model deployment
-
 
 
 ## Usage/Examples
@@ -114,14 +106,26 @@ Dense(5,activation='softmax')
                   ])
 ```
 
-
 ## Screenshots
 # Sample Dataset
 ![Healthy and Block Ror](https://github.com/printAsmamaw/Degree-project/assets/122156542/ca75d748-1b0a-4b6c-84a0-4be76c93b31c)
 
 ![Mosaic and Block Rot](https://github.com/printAsmamaw/Degree-project/assets/122156542/0cced243-0382-41cb-b2d6-0b0853c73018)
-
 # Evaluation of the model
 
 ![Model Evaluation](https://github.com/printAsmamaw/Degree-project/assets/122156542/26ea7319-27a1-42ae-9960-cdcaa2af17ec)
+## Used By
 
+This project is used by the following companies:
+
+- Apple product Company
+## License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+## Contacts
+
+--https://www.linkedin.com/in/asmamaw-damte-600a84264/
+
+## Acknowledgements
+
+ - [Free dataset for practice](https://www.kaggle.com/)
